@@ -8,11 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
-    "@headlessui/react": "^1.7.18",
-    /* other dependencies...*/
+    "@headlessui/react": "^1.7.18" // Do not include comments in your actual JSON file.
+    // other dependencies...
   },
   "devDependencies": {
     "@types/node": "^20",
-    /* other devDependencies...*/
+    // other devDependencies...
   }
 }
